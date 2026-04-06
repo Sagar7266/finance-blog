@@ -7,7 +7,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @SpringBootApplication
 @EnableJpaAuditing
 public class FinanceBlogApplication {
-    /* Start Point of tha application */
     public static void main(String[] args) {
         SpringApplication.run(FinanceBlogApplication.class, args);
     }
