@@ -2,6 +2,7 @@
 
 A **production-ready**, full-stack Finance Blog Web Application built for Indian users.
 
+S
 ---
 
 ## 🧱 Tech Stack
